@@ -12,8 +12,8 @@
   padding: 10px;
 }
 .todo-app {
-  /* width: 100%; */
-  max-width: 400px;
+  width: 100%;
+  max-width: 540px;
   background: #fff;
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
@@ -50,19 +50,19 @@
 .row button {
   border: none;
   outline: none;
-  background: #ff5945;
+  background: #fb8702;
   color: #fff;
   border-radius: 20px;
   padding: 10px 20px;
   cursor: pointer;
 }
 .error {
-  background: #e94747;
+  background: #fb0101;
   border-radius: 20px;
   font-size: 15px;
   margin: 5px 0 0 5px;
-  padding: 0 7cm ;
-  color: red;
+  padding: 5px 7px ;
+  /* color: red; */
   display: none;
   color: #fff;
 }
